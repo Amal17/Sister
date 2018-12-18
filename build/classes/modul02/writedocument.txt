@@ -1,1 +1,0 @@
-Coba tulis data dengan output stream
